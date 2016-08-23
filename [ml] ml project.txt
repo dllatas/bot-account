@@ -1,0 +1,25 @@
+============
+Training set
+============
+
+We need two files:
+
+	We have a subset of data that must be around 80%.
+
+	- target
+		0: fake
+		1: human
+
+	- dimensions of the subset for that 80%
+
+
+
+============
+Testing set
+============
+
+	The data subset must be around 20%.
+
+
+
+
